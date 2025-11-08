@@ -1,12 +1,51 @@
-## Hi there 👋
+![PolyOpsLab Logo](https://via.placeholder.com/200x200.png?text=PolyOpsLab)
 
-<!--
+# PolyOpsLab
 
-**Here are some ideas to get you started:**
+PolyOpsLab is a digital products & engineering agency.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We partner with brands, startups, and founders to build high‑impact web experiences, SaaS products, and AI‑powered tools.
+
+---
+
+### What we do
+
+* Full‑stack web application development
+* AI‑assisted product engineering
+* Design & user experience systems
+* Automation & workflow platforms
+
+---
+
+### Our focus
+
+We combine **poly‑functional engineering** with **operations‑grade execution** — hence **Poly‑Ops**.
+
+We believe in:
+
+* shipping fast
+* shipping quality
+* and continuously iterating
+
+---
+
+### Roadmap (High Level)
+
+Coming soon:
+
+* Public engineering playbooks
+* Open source utilities / templates
+* Case studies & release notes
+* PolyOpsLabs AI tool‑stack
+
+---
+
+### Connect
+
+Website: [https://polyopslab.com](https://polyopslab.com)
+
+Business email: [contact@polyopslab.com](mailto:contact@polyopslab.com)
+
+---
+
+> Work smarter. Ship cleaner. Operate like a lab.
