@@ -1,51 +1,53 @@
-![PolyOpsLab Logo](https://via.placeholder.com/200x200.png?text=PolyOpsLab)
+![PolyOpsLab Logo](https://raw.githubusercontent.com/PolyOpsLab/.github/main/assets/PolyOpsLab-logo.png)
 
 # PolyOpsLab
 
-PolyOpsLab is a digital products & engineering agency.
+**PolyOpsLab** is a digital product engineering & AI-driven technology lab.
 
-We partner with brands, startups, and founders to build high‑impact web experiences, SaaS products, and AI‑powered tools.
-
----
-
-### What we do
-
-* Full‑stack web application development
-* AI‑assisted product engineering
-* Design & user experience systems
-* Automation & workflow platforms
+We help founders, startups, and businesses ship high-impact web applications, SaaS platforms, and automation systems — fast, clean, and scalable.
 
 ---
 
-### Our focus
+## What We Do
 
-We combine **poly‑functional engineering** with **operations‑grade execution** — hence **Poly‑Ops**.
-
-We believe in:
-
-* shipping fast
-* shipping quality
-* and continuously iterating
+* Full-Stack Web Apps (Next.js / React / Node / TypeScript)
+* SaaS Product Engineering
+* AI-powered tool-building
+* Internal tools & workflow automation
+* Design systems & component libraries
 
 ---
 
-### Roadmap (High Level)
+## Philosophy
 
-Coming soon:
+**Poly-Ops** = **Poly Functional Engineering** × **Operational Execution**
 
-* Public engineering playbooks
-* Open source utilities / templates
-* Case studies & release notes
-* PolyOpsLabs AI tool‑stack
+We value:
 
----
-
-### Connect
-
-Website: [https://polyopslab.com](https://polyopslab.com)
-
-Business email: [contact@polyopslab.com](mailto:contact@polyopslab.com)
+* fast iterations
+* pragmatic engineering
+* quality over noise
+* build → measure → refine
 
 ---
 
-> Work smarter. Ship cleaner. Operate like a lab.
+## Roadmap
+
+Future public releases will include:
+
+* Engineering playbooks
+* Open-source utilities & templates
+* Case studies
+* Public AI tool-stack
+
+---
+
+## Connect With Us
+
+Website → [https://polyopslab.com](https://polyopslab.com)
+
+Business Email → [contact@polyopslab.com](mailto:contact@polyopslab.com)
+
+---
+
+> Smart engineering. Clean outputs. Operate like a lab.
