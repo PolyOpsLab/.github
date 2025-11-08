@@ -1,4 +1,9 @@
-![PolyOpsLab Logo](https://raw.githubusercontent.com/PolyOpsLab/.github/main/assets/PolyOpsLab-logo.png)
+<!-- ![PolyOpsLab Logo](https://raw.githubusercontent.com/PolyOpsLab/.github/main/assets/PolyOpsLab-logo.png) -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PolyOpsLab/.github/main/assets/PolyOpsLab-logo.png" width="350" height="300" alt="PolyOpsLab Logo" />
+</p>
+
 
 # PolyOpsLab
 
@@ -28,17 +33,6 @@ We value:
 * pragmatic engineering
 * quality over noise
 * build → measure → refine
-
----
-
-## Roadmap
-
-Future public releases will include:
-
-* Engineering playbooks
-* Open-source utilities & templates
-* Case studies
-* Public AI tool-stack
 
 ---
 
